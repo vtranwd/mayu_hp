@@ -17,8 +17,13 @@ TODOs
     - descriptions
     - media links (animations)
     - javascript
+3a. portfolio item detail
+    - title
+    - description
+    - external link
+    - CRUD REST API
 
-4. About page
+4. About section
     - images
     - split column layout
     - content
@@ -29,14 +34,18 @@ TODOs
     - external links
     - grid display newest posts
 
-6. contact page
+6. contact section
     - titles
     - textboxes
     - require valid email address
     - send button
 
-7. portfolio item detail
-    - title
-    - description
-    - external link
-    - CRUD REST API
+Mayu's resume:
+- Gentle Harmony // Mai Tsukiyo
+- Angel in Tokyo // Marin
+- International Children's Day Celebration // Miko Maiden
+- 12 Angry Men Performed By 12 Impassioned L.A. Women // Juror 11 (support)
+- Title: 12,000 Voices(12 Angry Men performed by Women, A nationwide performance event) // Juror 11 (support)
+- Title 39 Complex // Girl (support)
+- The Positive Devil // Mariko Takahashi (support)
+- Progetto Hebi // Girl (support)
